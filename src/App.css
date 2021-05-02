@@ -1,4 +1,9 @@
 body {
-    font-family: 'Dancing Script';
+    font-family: 'Open Sans';
     padding: 20px 60px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
